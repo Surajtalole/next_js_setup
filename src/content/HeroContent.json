@@ -1,0 +1,7 @@
+{
+    "title": "Title",
+    "desc": "Description Here ",
+    "buttonText": "Button Text",
+    "buttonUrl": "/",
+    "heroUrl":"/vercel.svg"
+}
